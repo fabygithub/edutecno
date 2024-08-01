@@ -1,0 +1,14 @@
+.navbar{
+    background-color: #03132c;
+}
+
+#autoSizingInputGroup.form-control::placeholder {
+    color: #03132c;
+  }
+
+
+  #navbarDropdown.nav-link.dropdown-toggle{
+    color:#03132c;
+  }
+
+ 
